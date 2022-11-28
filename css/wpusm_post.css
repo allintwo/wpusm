@@ -1,0 +1,12 @@
+
+.wp-block-column{
+    padding: 5px;
+    display: block;
+}
+.wp-block-columns {
+    display: block;
+}
+
+.td-pb-span8{
+    width: 100%;
+}

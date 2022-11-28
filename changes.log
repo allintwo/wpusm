@@ -1,0 +1,8 @@
+
+## 20.11.2022
+# Download Scraper using Download button
+
+## 17.11.2022
+DB:table:wpusm_request_log:added
+# Every time url request made - will added to this table
+

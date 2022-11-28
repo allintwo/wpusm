@@ -1,0 +1,15 @@
+[17-Nov-2022 15:19:11 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function find() on null in R:\xampp\htdocs\wp\wp-content\plugins\wpusm\projects\core\modules\dirtyship.com.php:182
+Stack trace:
+#0 R:\xampp\htdocs\wp\wp-content\plugins\wpusm\projects\core\api.php(105): common_xworker->GetPageData('https://dirtysh...')
+#1 {main}
+  thrown in R:\xampp\htdocs\wp\wp-content\plugins\wpusm\projects\core\modules\dirtyship.com.php on line 182
+[17-Nov-2022 15:45:10 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function insert() on null in R:\xampp\htdocs\wp\wp-content\plugins\wpusm\projects\core\api.php:309
+Stack trace:
+#0 R:\xampp\htdocs\wp\wp-content\plugins\wpusm\projects\core\api.php(112): wpusm_add_request_log('https://dirtysh...')
+#1 {main}
+  thrown in R:\xampp\htdocs\wp\wp-content\plugins\wpusm\projects\core\api.php on line 309
+[17-Nov-2022 15:45:40 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function insert() on null in R:\xampp\htdocs\wp\wp-content\plugins\wpusm\projects\core\api.php:309
+Stack trace:
+#0 R:\xampp\htdocs\wp\wp-content\plugins\wpusm\projects\core\api.php(112): wpusm_add_request_log('https://dirtysh...')
+#1 {main}
+  thrown in R:\xampp\htdocs\wp\wp-content\plugins\wpusm\projects\core\api.php on line 309
